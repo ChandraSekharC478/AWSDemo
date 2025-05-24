@@ -120,8 +120,4 @@ You should see your deployed static site.
 Make sure your `.git` folder is not exposed publicly. Do **not** push any sensitive data or credentials into your GitHub repo.
 
 ---
-
-
-
-Let me know if you'd like me to create this `README.md` and push it to your repo automatically or if you want additional sections like screenshots or domain integration.
 ```
